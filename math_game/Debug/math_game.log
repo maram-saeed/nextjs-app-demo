@@ -1,0 +1,11 @@
+﻿Build started 10/02/46 04:58:17 م.
+     1>Project "E:\c++ projects\math_game\math_game\math_game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\visual studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\math_game.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt math_game.cpp
+         math_game.cpp
+     1>e:\c++ projects\math_game\math_game\math_game.cpp(21): error C2864: 'stQuestion::CorrectAnswer' : only static const integral data members can be initialized within a class
+     1>Done Building Project "E:\c++ projects\math_game\math_game\math_game.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.62
